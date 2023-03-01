@@ -18,7 +18,7 @@ const Category = () => {
                 <img className='w-24 rounded-full' src={type1} alt="" />
                 <div>
                     <h2 className='text-2xl font-poppins text-white '>Cubic Trud</h2>
-                    <p className='text-[#CBFC00] text-lg font-poppins'>47 items</p>
+                    <p className='text-[#CBFC00] text-lg font-poppins'>12 items</p>
                 </div>
             </div>
             <div className='flex justify-center gap-5 items-center'>
@@ -32,28 +32,28 @@ const Category = () => {
                 <img className='w-24 rounded-full' src={type3} alt="" />
                 <div>
                     <h2 className='text-2xl font-poppins text-white '>Decoder Bob</h2>
-                    <p className='text-[#CBFC00] text-lg font-poppins'>47 items</p>
+                    <p className='text-[#CBFC00] text-lg font-poppins'>25 items</p>
                 </div>
             </div>
             <div className='flex justify-center gap-5 items-center'>
                 <img className='w-24 rounded-full' src={type4} alt="" />
                 <div>
                     <h2 className='text-2xl font-poppins text-white '>Sky Skeleton</h2>
-                    <p className='text-[#CBFC00] text-lg font-poppins'>47 items</p>
+                    <p className='text-[#CBFC00] text-lg font-poppins'>40 items</p>
                 </div>
             </div>
             <div className='flex justify-center gap-5 items-center'>
                 <img className='w-24 rounded-full' src={type5} alt="" />
                 <div>
-                    <h2 className='text-2xl font-poppins text-white '>Ice Dude</h2>
-                    <p className='text-[#CBFC00] text-lg font-poppins'>47 items</p>
+                    <h2 className='text-2xl font-poppins text-white '> Diamond Ice</h2>
+                    <p className='text-[#CBFC00] text-lg font-poppins'>37 items</p>
                 </div>
             </div>
             <div className='flex justify-center gap-5 items-center'>
                 <img className='w-24 rounded-full' src={type6} alt="" />
                 <div>
                     <h2 className='text-2xl font-poppins text-white '>King Kong</h2>
-                    <p className='text-[#CBFC00] text-lg font-poppins'>47 items</p>
+                    <p className='text-[#CBFC00] text-lg font-poppins'>62 items</p>
                 </div>
             </div>
         </div>

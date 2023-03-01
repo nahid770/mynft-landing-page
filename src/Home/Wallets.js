@@ -7,7 +7,7 @@ import coinbase from '../Images/coinbase.png'
 
 const Wallets = () => {
     return (
-        <div className='md:my-16'>
+        <div className='md:my-16 mb-16'>
            
             <div className='flex flex-col md:flex-row justify-center items-center md:space-x-5 space-y-5 md:space-y-0'>
                 <img className='md:w-44 w-32' src={binance} alt="" />

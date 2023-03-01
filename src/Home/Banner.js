@@ -5,7 +5,7 @@ import './Banner.css'
 
 const Banner = () => {
     return (
-        <div className='flex flex-col items-center md:flex-row-reverse md:gap-20  md:mt-8'>
+        <div className='flex flex-col items-center md:flex-row-reverse md:gap-20  md:mt-8 overflow-x-hidden'>
             <div data-aos-duration="2500" data-aos="fade-up" className=''>
                 <img   className='max-w-xs md:max-w-md ' src={banner} alt=""/>
             </div>

@@ -22,7 +22,7 @@ const Navber = () => {
             </div>
             {/* Mobile Version */}
            <div>
-            <div className='flex justify-between mt-8'>
+            <div className='flex justify-between mt-8 '>
                 <h2 className='text-white font-bold text-2xl md:hidden'>MYNFT</h2>
                 <div onClick={()=> setOpen(!open)}>
                     {
